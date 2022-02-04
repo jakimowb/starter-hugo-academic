@@ -1,0 +1,23 @@
+# Theme metadata
+name = "my_theme"
+
+# just to show if theme is uses
+[light]
+  # very red
+  primary_light = "#FF0000"
+
+  # Menu
+  menu_primary = "#ff0000"
+  menu_text = "#ff0000"
+  menu_text_active = "#ff0000"
+  menu_title = "#ff0000"
+
+[dark]
+  # very green
+  primary_light = "#00ff00"
+
+  # Menu
+  menu_primary = "#00ff00"
+  menu_text = "#00ff00"
+  menu_text_active = "#00ff00"
+  menu_title = "#00ff00"
